@@ -24,4 +24,4 @@ const resultDiv = divide(number1, number2);
 
 
 alert("addition: " + resultAdd + ", " + "subtraction: " + resultSub + ", " +
-"multiplication: " + resultMult + ", " + "division: " + resultDiv + ".");
+"multiplication: " + resultMult + ", " + "division: " + resultDiv);
